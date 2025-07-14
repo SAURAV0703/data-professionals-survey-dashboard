@@ -7,7 +7,9 @@ This repository contains a Power BI dashboard that visualizes findings from a gl
 - **Salary Analysis**: Average salary across different data-related positions  
 - **Technology Trends**: Most preferred programming languages by professionals  
 - **Work-Life Balance & Satisfaction**: Ratings on salary satisfaction and work-life balance  
-- **Career Accessibility**: Perceptions of difficulty in entering the data industry  
+- **Career Accessibility**: Perceptions of difficulty in entering the data industry
+
+
 ![Dashboard Preview](https://github.com/SAURAV0703/data-professionals-survey-dashboard/blob/main/data-professionals-survey-dashboard.png)
 ## 🛠️ Built With
 
