@@ -30,7 +30,7 @@ This repository contains a Power BI dashboard that visualizes findings from a gl
 
 ## 🔒 Disclaimer
 
-This dashboard is based on a global survey dataset and is intended for demonstration and educational purposes. All data has been anonymized or simulated.
+This dashboard is based on a global survey dataset and is intended for demonstration and educational purposes.
 
 ## 📜 License
 
