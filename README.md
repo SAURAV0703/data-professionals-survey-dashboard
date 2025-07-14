@@ -9,18 +9,16 @@ This repository contains a Power BI dashboard that visualizes findings from a gl
 - **Technology Trends**: Most preferred programming languages by professionals  
 - **Work-Life Balance & Satisfaction**: Ratings on salary satisfaction and work-life balance  
 - **Career Accessibility**: Perceptions of difficulty in entering the data industry  
-
+![Dashboard Preview](https://github.com/SAURAV0703/data-professionals-survey-dashboard/blob/main/data-professionals-survey-dashboard.png)
 ## 🛠️ Built With
 
 - [Power BI Desktop](https://powerbi.microsoft.com/)
-- Data collected from a local survey (mock/sample data used in template)
+- Data collected from a global survey.
 
 ## 📂 Repository Contents
 
 - `data-professionals-survey-dashboard.pbit` – Power BI template file (no data included)  
-- `dashboard_screenshot.png` – Preview of the dashboard  
-- `sample_data.xlsx` (optional) – Schema/example dataset  
-
+- `data-professionals-survey-dashboard.png` – Preview of the dashboard  
 ## 📎 How to Use
 
 1. Download the `.pbit` file from this repository.  
