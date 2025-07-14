@@ -17,8 +17,10 @@ This repository contains a Power BI dashboard that visualizes findings from a gl
 
 ## 📂 Repository Contents
 
-- `data-professionals-survey-dashboard.pbit` – Power BI template file (no data included)  
-- `data-professionals-survey-dashboard.png` – Preview of the dashboard  
+- `Job Market Survey.pbit` – Power BI template file
+- `data-professionals-survey-dashboard.png` – Preview of the dashboard
+- `README.md` - Readme File
+
 ## 📎 How to Use
 
 1. Download the `.pbit` file from this repository.  
