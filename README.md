@@ -1,5 +1,4 @@
-# Data Professionals Survey Dashboard
-
+# Data Professionals Survey Dashboard ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 This repository contains a Power BI dashboard that visualizes findings from a global job market survey conducted among data professionals. The report offers an analytical view of role distribution, salary expectations, tool preferences, and overall career sentiment.
 
 ## 📊 Dashboard Features
