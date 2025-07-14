@@ -32,6 +32,12 @@ This repository contains a Power BI dashboard that visualizes findings from a gl
 
 This dashboard is based on a global survey dataset and is intended for demonstration and educational purposes. All data has been anonymized or simulated.
 
-## 📫 Contact
+## 📜 License
 
-For feedback or collaboration, feel free to connect via [GitHub Issues](https://github.com/your-username/data-professionals-survey-dashboard/issues).
+This project is licensed under the **MIT License** — feel free to use, modify, or share it. Just credit the original author.
+
+## 🙋 Author
+
+**Saurav Singh Negi**  
+🎓 B.Tech Student | 💻 Deep Learning Enthusiast  
+🔗 [GitHub: SAURAV0703](https://github.com/SAURAV0703)
